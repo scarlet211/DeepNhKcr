@@ -1,5 +1,7 @@
 # DeepNhKcr
 DeepNhKcr：prediction of crotonylation sites of non-histone lysine in plants based on ESM2 network
+
+
 Lysine crotonylation (Kcr) is a crucial post-translational modification that significantly influences various biological processes in both animals and plants, including gene transcription, cellular metabolism, and photosynthesis. Accurately identifying Kcr sites is essential for advancing research in these areas. However, traditional experimental methods often face limitations that make this identification challenging.
 
 To bridge this gap, we are excited to introduce our cutting-edge web tool designed to predict Kcr sites using an advanced deep learning model. This tool integrates traditional protein coding techniques with deep learning for effective feature extraction.
