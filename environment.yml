@@ -225,4 +225,4 @@ dependencies:
       - torchvision==0.19.1+cu118
       - transformers==4.46.0
       - triton==3.0.0
-prefix: /home/wangjinwei/.conda/envs/spatialtwo
+prefix: /home/.conda/envs/spatialtwo
